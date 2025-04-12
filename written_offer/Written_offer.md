@@ -25,7 +25,7 @@ opensource@tenstorrent.com
 - Your name
 - Your company name (if applicable)
 - Your return mailing address and email
-- A telephone number or e-mail adddress in the event we need to reach you.
+- A telephone number or e-mail address in the event we need to reach you.
 
 We may charge you a fee to cover the cost of physical media and processing. Your request must be sent
 1. within three (3) years of the date you received the Tenstorrent product that included the component or binary file(s) that are the subject of your request; or
